@@ -1,6 +1,6 @@
 # ⏳ Contador de Tempo
 
-Este projeto é uma aplicação web que permite ao usuário selecionar uma data futura e visualizar, em tempo real, quanto tempo falta até ela, em dias, horas, minutos e segundos. Criado com **HTML**, **CSS** e **JavaScript puro**, o objetivo é oferecer uma experiência elegante, interativa e responsiva — ideal para demonstrar domínio dos fundamentos do front-end.
+Este projeto é uma aplicação web que permite ao usuário selecionar uma data futura e visualizar, em tempo real, quanto tempo falta até ela, em dias, horas, minutos e segundos. Criado com **HTML**, **CSS** e **JavaScript puro**, o objetivo é oferecer uma experiência elegante, interativa e responsiva ideal para demonstrar domínio dos fundamentos do front-end.
 
 ---
 
@@ -50,7 +50,7 @@ Este projeto é uma aplicação web que permite ao usuário selecionar uma data 
 git clone https://github.com/kelvinlemos7/Contador-de-Tempo)
 Navegue até o diretório:
 
-cd nome-do-repo
+cd Contador-de-Tempo
 Abra o arquivo index.html com seu navegador (ou use extensão de Live Server no VS Code).
 ```
 
